@@ -9,3 +9,11 @@ I'm an aspiring AI Engineer passionate about solving real-world business problem
 - 💬 Ask me about Python, Data Analysis, Machine Learning, and AI.
 - 📫 Reach me via LinkedIn or Email.
 - ⚡ Fun fact: I enjoy turning business problems into AI solutions.
+
+
+<p align="left">
+<a href="https://github.com/iscofranafw">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iscofranafw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iscofranafw&layout=compact&theme=algolia"/>
+</a>
+</p>
