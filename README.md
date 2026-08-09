@@ -14,6 +14,6 @@ I'm an aspiring AI Engineer passionate about solving real-world business problem
 <p align="left">
 <a href="https://github.com/iscofranafw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iscofranafw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iscofranafw&layout=compact&theme=algolia"/>
+  <!--img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iscofranafw&layout=compact&theme=algolia"/-->
 </a>
 </p>
